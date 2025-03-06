@@ -1,4 +1,4 @@
-# CompSci_StudyHub
+# Siya's Computer Science Study Hub
 
 ## Completed Coursework
 
